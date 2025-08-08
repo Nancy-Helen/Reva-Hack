@@ -1,9 +1,9 @@
 # Reva-Hack
 
 To open the frontend  
-1.open frontendfolder  
-2.go to hack-html  
-3.go to chef.html
+  1.open frontendfolder  
+  2.go to hack-html  
+  3.go to chef.html
 
 # Team Information
 
